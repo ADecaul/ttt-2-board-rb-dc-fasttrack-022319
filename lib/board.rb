@@ -1,5 +1,5 @@
 # Define the variable board below.
-row = ["","","","","","","","",""]
+board = ["","","","","","","","",""]
 
 # Position 1: Left
 row["0"]
