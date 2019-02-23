@@ -13,4 +13,4 @@ row["2"]
 # Move X to the Postion 2, Middle
 
 row["1"] = "X"
-row[]
+row["","X","","","","","","","",""]
